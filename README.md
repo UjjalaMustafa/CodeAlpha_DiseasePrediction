@@ -222,7 +222,7 @@ result = predict_disease(sample_patient)
 
 **Ujjala Mustafa**  
 Machine Learning Intern @ CodeAlpha  
-🔗 [LinkedIn](https://linkedin.com) | 💻 [GitHub](https://github.com)
+🔗 [LinkedIn]https://www.linkedin.com/in/ujjala-mustafa-251511246/ | 💻 [GitHub] https://github.com/UjjalaMustafa/CodeAlpha_DiseasePrediction
 
 ---
 
